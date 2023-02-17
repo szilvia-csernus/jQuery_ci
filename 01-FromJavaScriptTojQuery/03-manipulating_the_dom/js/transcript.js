@@ -7,7 +7,7 @@
  * Selecting elements.
  */
 
-// Returns a single element. This is because we can't every have more than
+// Returns a single element. This is because we can't have more than
 // one element with the same id. Note that we don't include a '#' for the id
 var article = document.getElementById('home-page');
 
